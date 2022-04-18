@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sametcan AL</h1>
+<h1>Sametcan AL</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametcanal53&label=Profile%20views&color=0e75b6&style=flat" alt="sametcanal53" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+I’m currently learning **Java Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
