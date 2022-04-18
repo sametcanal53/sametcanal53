@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sametcan AL</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametcanal53&label=Profile%20views&color=0e75b6&style=flat" alt="sametcanal53" /> </p>
 
-- 🔭 I’m currently working on [Human Resource Management System](https://github.com/sametcanal53/HumanResourceManagementSystem)
-
 - 🌱 I’m currently learning **Java Spring Boot**
-
-- 📫 How to reach me **sametcanal53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
