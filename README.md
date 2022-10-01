@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://github.com/sametcanal53">
-  <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=sametcanal53&show_icons=true&theme=dark&hide_border=true" />
-  <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcanal53&layout=compact&langs_count=10&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sametcanal53&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcanal53&layout=compact&langs_count=10&theme=dark&hide_border=true" />
 </a>
 
