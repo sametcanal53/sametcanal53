@@ -7,9 +7,10 @@
   <a href="mailto:sametcanal53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.sametcanal.com"><img src="https://img.shields.io/badge/sametcanal.com-000000?style=for-the-badge&logo=About.website&logoColor=white"></a>
 </p>
-
-<a href="https://github.com/sametcanal53">
-  <img src="https://github-readme-stats.vercel.app/api?username=sametcanal53&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcanal53&layout=compact&langs_count=10&theme=dark&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/sametcanal53">
+    <img src="https://github-readme-stats.vercel.app/api?username=sametcanal53&show_icons=true&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcanal53&layout=compact&langs_count=10&theme=dark&hide_border=true" />
+  </a>
+</p>
 
